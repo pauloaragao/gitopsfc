@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: pauloaragaoo/gitopsfc
-  newTag: 491deb0b8601a01fa8c12ed3978139cba6f8249b
+  newTag: 199d94cbc886329e1868faf0fa55a378b7a734d5
